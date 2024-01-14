@@ -1,0 +1,195 @@
+<settings>
+
+<setting propertyKey="@Properties.infoText" title="@Strings.infoText"> 
+<settingConfig type="alphaNumeric" required="false"/>
+</setting>
+
+<setting propertyKey="@Properties.mainCol" title="@Strings.mainCol">
+	<settingConfig type="list">
+		<listEntry value="0">@Strings.Weiss</listEntry>
+		<listEntry value="1">@Strings.Blau</listEntry>
+		<listEntry value="2">@Strings.DK_Blau</listEntry>
+		<listEntry value="3">@Strings.Rot</listEntry>
+		<listEntry value="4">@Strings.DK_Rot</listEntry>
+		<listEntry value="5">@Strings.Grün</listEntry>
+		<listEntry value="6">@Strings.DK_Grün</listEntry>
+		<listEntry value="7">@Strings.Orange</listEntry>
+		<listEntry value="8">@Strings.Gelb</listEntry>
+		<listEntry value="9">@Strings.Pink</listEntry>
+		<listEntry value="10">@Strings.Violett</listEntry>
+		<listEntry value="11">@Strings.Grau</listEntry>
+		<listEntry value="12">@Strings.DK_Grau</listEntry>
+		<listEntry value="13">@Strings.Schwarz</listEntry>
+	</settingConfig>
+</setting>
+
+<setting propertyKey="@Properties.indiCol" title="@Strings.indiCol" helpUrl="https://developer.garmin.com/connect-iq/reference-guides/devices-reference/"> 
+<settingConfig type="alphaNumeric" required="false" />
+</setting>
+
+<setting propertyKey="@Properties.MyTimeFg" title="@Strings.MyTimeFg">
+	<settingConfig type="list">
+		<listEntry value="0">@Strings.Weiss</listEntry>
+		<listEntry value="1">@Strings.Blau</listEntry>
+		<listEntry value="2">@Strings.DK_Blau</listEntry> 
+		<listEntry value="3">@Strings.Rot</listEntry>
+		<listEntry value="4">@Strings.DK_Rot</listEntry>
+		<listEntry value="5">@Strings.Grün</listEntry>
+		<listEntry value="6">@Strings.DK_Grün</listEntry>
+		<listEntry value="7">@Strings.Orange</listEntry>
+		<listEntry value="8">@Strings.Gelb</listEntry>
+		<listEntry value="9">@Strings.Pink</listEntry>
+		<listEntry value="10">@Strings.Violett</listEntry>
+		<listEntry value="11">@Strings.Grau</listEntry>
+		<listEntry value="12">@Strings.DK_Grau</listEntry>
+		<listEntry value="13">@Strings.Schwarz</listEntry>
+	</settingConfig>
+</setting>
+
+<setting propertyKey="@Properties.MyTimeBg" title="@Strings.MyTimeBg">
+	<settingConfig type="list">
+		<listEntry value="0">@Strings.Weiss</listEntry>
+		<listEntry value="1">@Strings.Blau</listEntry>
+		<listEntry value="2">@Strings.DK_Blau</listEntry>
+		<listEntry value="3">@Strings.Rot</listEntry>
+		<listEntry value="4">@Strings.DK_Rot</listEntry>
+		<listEntry value="5">@Strings.Grün</listEntry>
+		<listEntry value="6">@Strings.DK_Grün</listEntry>
+		<listEntry value="7">@Strings.Orange</listEntry>
+		<listEntry value="8">@Strings.Gelb</listEntry>
+		<listEntry value="9">@Strings.Pink</listEntry>
+		<listEntry value="10">@Strings.Violett</listEntry>
+		<listEntry value="11">@Strings.Grau</listEntry>
+		<listEntry value="12">@Strings.DK_Grau</listEntry>
+		<listEntry value="13">@Strings.Schwarz</listEntry>
+	</settingConfig>
+</setting>
+
+<setting propertyKey="@Properties.ClockTyp" title="@Strings.ClockTyp">
+	<settingConfig type="list">
+		<listEntry value="0">@Strings.Digi</listEntry>
+		<listEntry value="1">@Strings.Ana</listEntry>
+	</settingConfig>
+</setting>
+
+<setting propertyKey="@Properties.DesignTyp" title="@Strings.DesignTyp">
+	<settingConfig type="list">
+		<listEntry value="0">@Strings.Lines</listEntry>
+		<listEntry value="1">@Strings.Dots</listEntry>
+		<listEntry value="2">@Strings.Squares</listEntry>
+	</settingConfig>
+</setting>
+
+<setting propertyKey="@Properties.Speed" title="@Strings.Speed">
+	<settingConfig type="list">
+		<listEntry value="0">@Strings.s0</listEntry>
+		<listEntry value="1">@Strings.s1</listEntry>
+		<listEntry value="2">@Strings.s2</listEntry>
+		<listEntry value="3">@Strings.s3</listEntry>
+		<listEntry value="4">@Strings.s4</listEntry>
+		<listEntry value="5">@Strings.s5</listEntry>
+		<listEntry value="6">@Strings.s6</listEntry>
+		<listEntry value="7">@Strings.s7</listEntry>
+		<listEntry value="8">@Strings.s8</listEntry>
+	</settingConfig>
+</setting>
+
+<setting propertyKey="@Properties.appid1" title="@Strings.appid1" helpUrl="https://openweathermap.org/appid"> 
+<settingConfig type="alphaNumeric" required="false" />
+</setting>
+
+<setting propertyKey="@Properties.appid2" title="@Strings.appid2" helpUrl="https://www.jawg.io/docs/apidocs/elevation/#access-token">
+<settingConfig type="alphaNumeric" required="false" />
+</setting>
+
+<setting propertyKey="@Properties.moveBar" title="@Strings.moveBar">
+<settingConfig type="boolean" /> 
+</setting>
+
+<setting propertyKey="@Properties.RIP" title="@Strings.RIP">
+<settingConfig type="boolean" /> 
+</setting>
+
+<setting propertyKey="@Properties.owmMin" title="@Strings.owmMin" helpUrl="https://openweathermap.org/api/one-call-api#parameter">
+<settingConfig type="boolean" />
+</setting>
+
+<setting propertyKey="@Properties.owmAlert" title="@Strings.owmAlert" helpUrl="https://openweathermap.org/api/one-call-api#listsource">
+<settingConfig type="boolean" />
+</setting>
+
+<setting propertyKey="@Properties.ani" title="@Strings.ani">
+	<settingConfig type="list">
+		<listEntry value="0">@Strings.ani0</listEntry>
+		<listEntry value="1">@Strings.ani1</listEntry>
+		<listEntry value="2">@Strings.ani2</listEntry>
+		<listEntry value="3">@Strings.ani3</listEntry>
+		<listEntry value="4">@Strings.ani4</listEntry>
+		<listEntry value="5">@Strings.ani5</listEntry>
+		<listEntry value="6">@Strings.ani6</listEntry>
+		<listEntry value="7">@Strings.ani7</listEntry>
+		<listEntry value="8">@Strings.ani8</listEntry>
+		<listEntry value="9">@Strings.ani9</listEntry>
+		<listEntry value="10">@Strings.ani10</listEntry>
+		<listEntry value="11">@Strings.ani11</listEntry>
+		<listEntry value="12">@Strings.ani12</listEntry>
+		<listEntry value="13">@Strings.ani13</listEntry>
+	</settingConfig>
+</setting>
+
+<setting propertyKey="@Properties.anzData" title="@Strings.anzData">
+<settingConfig type="numeric" />
+</setting>
+
+<setting propertyKey="@Properties.future" title="@Strings.future">
+	<settingConfig type="list">
+		<listEntry value="0">@Strings.f0</listEntry>
+		<listEntry value="1">@Strings.f1</listEntry>
+		<listEntry value="2">@Strings.f2</listEntry>
+		<listEntry value="3">@Strings.f3</listEntry>
+		<listEntry value="4">@Strings.f4</listEntry>
+	</settingConfig>
+</setting>
+
+<setting propertyKey="@Properties.indiText" title="@Strings.indiText"> 
+<settingConfig type="alphaNumeric" required="false" />
+</setting>
+
+<setting propertyKey="@Properties.dateView" title="@Strings.dateView">
+	<settingConfig type="list">
+		<listEntry value="0">@Strings.dateViewNor</listEntry>
+		<listEntry value="1">@Strings.dateViewRev</listEntry>
+	</settingConfig>
+</setting>
+
+<setting propertyKey="@Properties.dnd" title="@Strings.dnd">
+<settingConfig type="boolean" /> 
+</setting>
+
+<setting propertyKey="@Properties.dndOffline" title="@Strings.dndOffline">
+<settingConfig type="boolean" /> 
+</setting>
+
+<setting propertyKey="@Properties.dndList" title="@Strings.dndList">
+	<settingConfig type="list">
+		<listEntry value="0">@Strings.dndText</listEntry>
+		<listEntry value="1">@Strings.dndDigi1</listEntry>
+		<listEntry value="2">@Strings.dndDigi2</listEntry>
+		<listEntry value="3">@Strings.dndDigi3</listEntry>
+		<listEntry value="4">@Strings.dndDigi4</listEntry>
+	</settingConfig>
+</setting>
+
+<setting propertyKey="@Properties.sw" title="@Strings.sw">
+<settingConfig type="boolean" />
+</setting>
+
+<setting propertyKey="@Properties.mile" title="@Strings.mile">
+<settingConfig type="boolean" />
+</setting>
+
+<setting propertyKey="@Properties.beau" title="@Strings.beau" helpUrl="https://de.wikipedia.org/wiki/Beaufortskala#Beaufort-Skala_und_Windgeschwindigkeiten">
+<settingConfig type="boolean" />
+</setting>
+
+</settings> 

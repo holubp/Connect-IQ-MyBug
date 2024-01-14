@@ -1,0 +1,211 @@
+<strings>
+<!--260er-->
+<string id="MT">1</string>
+<string id="rP">2</string>
+<string id="rA">6</string>
+<!--Top-->
+<!---2 Batterie-->
+    <string id="X2">87</string>
+    <string id="Y2">45</string>
+<!---3 Batterie-Text-->
+    <string id="X3">157</string>
+    <string id="Y3">52</string>
+<!---4 BT-->
+    <string id="X4">65</string>
+    <string id="Y4">35</string>
+<!---5 Message-->
+    <string id="X5">138</string>
+    <string id="Y5">26</string>
+<!---6 Message-Text-->
+    <string id="X6">104</string>
+    <string id="Y6">26</string>
+<!---7 Alarm-->
+    <string id="X7">195</string>
+    <string id="Y7">35</string>
+<!--Center-->
+<!---8 //Datum-->
+    <string id="X8">130</string>
+    <string id="Y8">80</string>
+<!--- 9 //Zeit-->
+    <string id="X9">130</string>
+    <string id="Y9">127</string>
+<!---10 //KW-->
+    <string id="X10">25</string>
+    <string id="Y10">145</string>
+<!---11 //Animationssachen-->
+    <string id="X11">31</string>
+    <string id="Y11">6</string>
+<!--Top Left-->
+<!---12 //Dist-Icon-->
+    <string id="X12">26</string>
+    <string id="Y12">91</string>
+<!---13//Dist-KM-->
+    <string id="X13">23</string>
+    <string id="Y13">114</string>
+<!---14//Dist-Zahl-->
+    <string id="X14">38</string>
+    <string id="Y14">68</string>
+<!---15 //Steps-Icon-->
+    <string id="X15">27</string>
+    <string id="Y15">88</string>
+<!---16 //Steps-Zahl-->
+    <string id="X16">38</string>
+    <string id="Y16">68</string>
+<!---17 //Steps-10'000er-->
+    <string id="X17">23</string>
+    <string id="Y17">114</string>
+<!---18 //Treppe-Icon-->
+    <string id="X18">33</string>
+    <string id="Y18">96</string>
+<!---19 //Treppe-Plus-->
+    <string id="X19">38</string>
+    <string id="Y19">68</string>
+<!---20 //Treppe-Minus-->
+    <string id="X20">23</string>
+    <string id="Y20">114</string>
+<!--Top Right-->
+<!---21//Herz-Icon-->
+    <string id="X21">228</string>
+    <string id="Y21">94</string>
+<!---22//Herz-Zahl-->
+    <string id="X22">235</string>
+    <string id="Y22">114</string>
+<!---23//Kal-Icon-->
+    <string id="X23">228</string>
+    <string id="Y23">90</string>
+<!---24//Kal-Zahl Aktiv-->
+    <string id="X24">221</string>
+    <string id="Y24">68</string>
+<!---25//Kal-Zahl Total-->
+    <string id="X25">236</string>
+    <string id="Y25">114</string>
+<!---26//BMI-Icon-->
+    <string id="X26">220</string>
+    <string id="Y26">88</string>
+<!---27//BMI-Ampel-->
+    <string id="X27">231</string>
+    <string id="Y27">53</string>
+<!---28//BMI-Zahl-->
+    <string id="X28">234</string>
+    <string id="Y28">114</string>
+<!--Bottom Left-->
+<!---29//Höhe-Icon-->
+    <string id="X29">29</string>
+    <string id="Y29">169</string>
+<!---30//Höhe-Zahl-->
+    <string id="X30">40</string>
+    <string id="Y30">188</string>
+<!---31//Höhe-Herkunft-->
+    <string id="X31">25</string>
+    <string id="Y31">145</string>
+<!---32//Sonne-Icon-->
+    <string id="X32">32</string>
+    <string id="Y32">166</string>
+<!---33//Sonne-Auf-->
+    <string id="X33">25</string>
+    <string id="Y33">145</string>
+<!---34//Sonne-Ab-->
+    <string id="X34">40</string>
+    <string id="Y34">185</string>
+<!---35//Mond-Icon-->
+    <string id="X35">32</string>
+    <string id="Y35">166</string>
+<!---36//Mond-Zahl-->
+    <string id="X36">40</string>
+    <string id="Y36">185</string>
+<!--Bottom Right-->
+<!---37//Wind-Icon-->
+    <string id="X37">228</string>
+    <string id="Y37">168</string>
+<!---38//Wind-Zahl-->
+    <string id="X38">235</string>
+    <string id="Y38">144</string>
+<!---39//Wind-KM/H-->
+    <string id="X39">222</string>
+    <string id="Y39">188</string>
+<!---40//Druck-Icon-->
+    <string id="X40">227</string>
+    <string id="Y40">167</string>
+<!---41//Druck-Zahl-->
+    <string id="X41">235</string>
+    <string id="Y41">144</string>
+<!---42//Druck-hPa-->
+    <string id="X42">222</string>
+    <string id="Y42">188</string>
+<!---43//Mond-Icon-->
+    <string id="X43">227</string>
+    <string id="Y43">167</string>
+<!---44//Mond-Zahl-->
+    <string id="X44">235</string>
+    <string id="Y44">144</string>
+<!---45//Mond-Zahl-->
+    <string id="X45">222</string>
+    <string id="Y45">188</string>
+<!--Bottom-->
+<!---46//Wetter-Ampel/Temp/Icon-->
+    <string id="X46">95</string>
+    <string id="Y46">203</string>
+<!---47//Wetter-Text-->
+    <string id="X47">130</string>
+    <string id="Y47">222</string>
+<!---48//Wetter-Location-->
+    <string id="X48">130</string>
+    <string id="Y48">178</string>
+<!---49//Wetter-feels-->
+    <string id="X49">130</string>
+    <string id="Y49">242</string>
+<!--Ergänzungen-->
+<!---50//Herz-Zahl-Rest-->
+    <string id="X50">221</string>
+    <string id="Y50">68</string>
+<!---51//Datum Analog Large-->
+    <string id="X51">176</string>
+    <string id="Y51">128</string>
+<!---52 //Message-Icon-Null-->
+    <string id="X52">130</string>
+    <string id="Y52">25</string>
+<!---53//Wochentag Analog Large-->
+    <string id="X53">84</string>
+    <string id="Y53">128</string>
+<!---54//Minuten Grafik Digital-->
+    <string id="X54">100</string>
+    <string id="Y54">102</string>
+<!---55//Datum Digital mit Minutenvorhersage-->
+    <string id="X55">130</string>
+    <string id="Y55">161</string>
+<!--Meteo Alert-->
+<!---56//Alert Icon-->
+    <string id="X56">81</string>
+    <string id="Y56">202</string>
+<!---57 //Alert Zeitraum-->
+    <string id="X57">108</string>
+    <string id="Y57">203</string>
+<!---58//Temperatur ohne Alarm-->
+    <string id="X58">130</string>
+    <string id="Y58">203</string>
+<!---59//Temp Icon ohne Alarm-->
+    <string id="X59">165</string>
+    <string id="Y59">203</string>
+<!---60//Temperatur mit Alarm-->
+    <string id="X60">154</string>
+    <string id="Y60">203</string>
+<!---61//Temp Icon mit Alarm-->
+    <string id="X61">179</string>
+    <string id="Y61">203</string>
+<!---62//Meteo Ampel mit Alarm-->
+    <string id="X62">130</string>
+    <string id="Y62">203</string>
+<!--Div-->
+<!---63//Wassertropfen-->
+    <string id="X63">82</string>
+    <string id="Y63">90</string>
+<!---64//mm-Angabe plus-->
+    <string id="X64">168</string>
+    <string id="Y64">99</string>
+<!---65//Vorhersage, beides Y-Werte-->
+    <string id="X65">98</string>
+    <string id="Y65">159</string>
+<!---66//precMax-Angabe-->
+    <string id="X66">168</string>
+    <string id="Y66">81</string>
+</strings>

@@ -1,0 +1,51 @@
+<properties>
+
+	<property id="infoText" type="string">(+) just for Fenix7(S+X),VA4,Darth Vader,First Avenger</property>  
+
+	<property id="mainCol" type="number">1</property>  
+	<property id="indiCol" type="string"></property>  
+	
+	<property id="owmMin" type="boolean">true</property>
+	
+	<property id="owmAlert" type="boolean">true</property>
+	
+	<property id="ani" type="number">4</property>
+	
+	<property id="anzData" type="number">180</property>
+	
+	<property id="beau" type="boolean">false</property>
+	
+	<property id="mile" type="boolean">false</property>
+	
+	<property id="appid1" type="string"></property> 
+
+	<property id="appid2" type="string"></property> 
+
+	<property id="MyTimeFg" type="number">0</property> 
+	<property id="MyTimeBg" type="number">13</property>
+	
+	<property id="dateView" type="number">0</property>
+	
+	<property id="moveBar" type="boolean">true</property>
+	 
+	<property id="RIP" type="boolean">true</property>
+	 
+	<property id="dnd" type="boolean">true</property>
+	 
+	<property id="dndList" type="number">0</property>
+	
+	<property id="dndOffline" type="boolean">true</property>
+	 
+	<property id="sw" type="boolean">false</property>
+
+	<property id="ClockTyp" type="number">0</property>
+	
+	<property id="DesignTyp" type="number">1</property>
+	
+	<property id="Speed" type="number">2</property>
+	
+	<property id="future" type="number">2</property>
+	
+	<property id="indiText" type="string">For example/with 2 lines</property> 
+
+</properties>

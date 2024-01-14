@@ -1,0 +1,132 @@
+<strings>
+    <string id="infoText">MyBug Version 3.5.8</string>
+    
+    <string id="AppName">MyBug</string>
+    
+    <string id="beau">Wind-Unit Beaufort[Bft]:</string>
+   
+    <string id="mile">Distance in miles[mi]:</string>
+   
+    <string id="RIP">R.I.P. when no Puls:</string>
+
+    <string id="ani">Animation / Coordinates / Forecast:</string>
+    <string id="ani0">Blank</string>
+    <string id="ani1">Animation</string>
+    <string id="ani2">Animation just in LowPowerModus</string>
+    <string id="ani3">Coordinates (X.XXXXX°)</string>
+    <string id="ani4">Coordinates (X°XX'XX'')</string>
+    <string id="ani5">Free text</string>
+    <string id="ani6">(+) Weather-Forecast</string>
+    <string id="ani7">(Test) Body-Battery History</string>
+    <string id="ani8">Heart-Rate History</string>
+    <string id="ani9">(Test) Oxygen-Saturation History</string>
+    <string id="ani10">(Test) Stress History</string>
+    <string id="ani11">Elevation History</string>
+    <string id="ani12">Temperatur History [C°]</string>
+    <string id="ani13">Pressure History [hPa]</string>
+   
+    <string id="indiText">Enter text, 2nd line separated by /</string>
+   
+    <string id="owmMin">(+) 60 Min-Forecast [mm/h]:</string>
+   
+    <string id="owmAlert">Meteo-Alerts by OWM:</string>
+   
+    <string id="langi">es</string>
+
+	<string id="mainCol">Watch-Detail-Color:</string>
+	<string id="indiCol">Individual Color(like 0x00ffaa):</string>
+	
+	<string id="appid1">KEY from openweathermap.org:</string>
+	
+	<string id="appid2">KEY from jawg.io:</string>
+
+	<string id="anzData">History-Data-Count (if chosen):</string>
+	
+	<string id="blank">Blank</string>
+
+	<string id="dnd">ScreenOff @ DoNotDisturb:</string>
+	
+	<string id="dndList">ScreenOff-Text:</string>
+	<string id="dndText">DnD as text</string>
+	<string id="dndDigi1">Digital Clock Size 1</string>
+	<string id="dndDigi2">Digital Clock Size 2</string>
+	<string id="dndDigi3">Digital Clock Size 3</string>
+	<string id="dndDigi4">Digital Clock Size 4</string>
+	
+	<string id="dndOffline">No Meteo-Updates @ DoNotDisturb:</string>
+	
+	<string id="sw">Switch BG/FG-Color after Sunset:</string>
+	
+	<string id="moveBar">Move-Bar:</string>
+
+	<string id="dateView">Date-Style:</string>
+	<string id="dateViewNor">WeekDay/Day/Month</string>
+	<string id="dateViewRev">Month/Day/WeekDay</string>
+	
+	<string id="DesignTyp">Design:</string>
+	<string id="Lines">Lines</string>
+	<string id="Dots">Dots</string>
+	<string id="Squares">Squares</string>
+	
+	<string id="ClockTyp">Clock-Typ:</string>
+	<string id="Digi">Digital-Clock</string>
+	<string id="Ana">Analog-Clock</string>
+	
+	<string id="Speed">Display-Switch-Speed[sec]:</string>
+	<string id="s0">1</string>
+	<string id="s1">2</string>
+	<string id="s2">3</string>
+	<string id="s3">4</string>
+	<string id="s4">5</string>
+	<string id="s5">6</string>
+	<string id="s6">7</string>
+	<string id="s7">8</string>
+	<string id="s8">9</string>
+	
+	<string id="future">(+) How many Forecast-Days(if chosen):</string>
+	<string id="f0">1 Day</string>
+	<string id="f1">2 Days</string>
+	<string id="f2">3 Days</string>
+	<string id="f3">4 Days</string>
+	<string id="f4">5 Days</string>
+	
+	<string id="MyTimeFg">Foreground-Color:</string>
+	<string id="MyTimeBg">Background-Color:</string>
+	
+	<string id="Weiss">Blanco</string>
+	<string id="Blau">Azul</string>
+	<string id="DK_Blau">Azul Oscuro</string>
+	<string id="Rot">Rojo</string>
+	<string id="DK_Rot">Rojo Oscuro</string>
+	<string id="Grün">Verde</string>
+	<string id="DK_Grün">Verde Oscuro</string>
+	<string id="Orange">Naranja</string>
+	<string id="Gelb">Amarillo</string>
+	<string id="Pink">Rosa</string>
+	<string id="Violett">Violeta</string>
+	<string id="Grau">Gris</string>
+	<string id="DK_Grau">Gris Oscuro</string>
+	<string id="Schwarz">Negro</string>
+
+	<string id="d1">Lun</string>
+	<string id="d2">Mar</string>
+	<string id="d3">Mié</string>
+	<string id="d4">Jue</string>
+	<string id="d5">Vie</string>
+	<string id="d6">Sáb</string>
+	<string id="d7">Dom</string>
+	
+	<string id="m1">Ene</string>
+	<string id="m2">Feb</string>
+	<string id="m3">Mar</string>
+	<string id="m4">Abr</string>
+	<string id="m5">May</string>
+	<string id="m6">Jun</string>
+	<string id="m7">Jul</string>
+	<string id="m8">Ago</string>
+	<string id="m9">Sep</string>
+	<string id="m10">Oct</string>
+	<string id="m11">Nov</string>
+	<string id="m12">Dic</string>	
+
+</strings>

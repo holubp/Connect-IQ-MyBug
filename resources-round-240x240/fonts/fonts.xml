@@ -1,0 +1,17 @@
+<fonts>
+	<font id="FT_MyBug" filename="MyBug_240.fnt" antialias="true"/>
+	<font id="FT_MyBug_Time" filename="MyBug_240_Time.fnt" antialias="true"/>
+	<font id="FT_MyBug_BT_AL" filename="MyBug_240_BT_AL.fnt" antialias="true"/>
+	<font id="FT_AVA" filename="ava.fnt" antialias="true"/>
+	<font id="FT_COA" filename="coa.fnt" antialias="true"/>
+	<font id="FT_FLO" filename="flo.fnt" antialias="true"/>
+	<font id="FT_FOG" filename="fog.fnt" antialias="true"/>
+	<font id="FT_FIR" filename="fir.fnt" antialias="true"/>
+	<font id="FT_HIG" filename="hig.fnt" antialias="true"/>
+	<font id="FT_LOW" filename="low.fnt" antialias="true"/>
+	<font id="FT_RAF" filename="raf.fnt" antialias="true"/>
+	<font id="FT_RAI" filename="rai.fnt" antialias="true"/>
+	<font id="FT_SNI" filename="sni.fnt" antialias="true"/>
+	<font id="FT_THU" filename="thu.fnt" antialias="true"/>
+	<font id="FT_WIN" filename="win.fnt" antialias="true"/>
+</fonts>
