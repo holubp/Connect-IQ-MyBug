@@ -5,6 +5,7 @@ using Toybox.Time;
 using Toybox.Time.Gregorian;
 using Toybox.Math;
 using Toybox.WatchUi as Ui;
+using Toybox.Lang;
 
 function webAlertIcon(dc) {
 
@@ -24,10 +25,20 @@ function webAlertIcon(dc) {
  StateOld=ViewStateAlert;
 
  var WebAlertEvent=Ast.getValue("WebAlertEvent"+AlertNr);
+ if (!(WebAlertEvent instanceof Lang.String)) {
+    return;
+ }
  var WebAlertStartUTC=Ast.getValue("WebAlertStart"+AlertNr);
  var WebAlertEndUTC=Ast.getValue("WebAlertEnd"+AlertNr);
  var now=new Time.Moment(Time.now().value());	
- var alertDuration=Math.round(((WebAlertEndUTC.toLong()-now.value())/3600));
+ var alertDuration;
+ try {
+    alertDuration=Math.round(((WebAlertEndUTC.toLong()-now.value())/3600));
+ }
+ catch (ex) {
+    return;
+ }
+
 
  //Farbe(Text/Icon) festlegen
  if (WebAlertEvent.find("Yellow")!=null||WebAlertEvent.find("yellow")!=null||WebAlertEvent.find("oderate")!=null||WebAlertEvent.find("Light")!=null||WebAlertEvent.find("light")!=null){

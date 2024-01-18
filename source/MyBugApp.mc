@@ -242,7 +242,8 @@ class MyBugApp extends App.AppBase {
    }
   }
 
-  WatchUi.requestUpdate();registerEvents();}
+  WatchUi.requestUpdate();registerEvents();
+ }
 
   function registerEvents(){
   var lastTime=Bg.getLastTemporalEventTime();
