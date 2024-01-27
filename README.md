@@ -2,7 +2,7 @@
 
 Mintenance version of MyBug Gamin watch face originally developed by mfanki.
 
-## Dev Roadmap
+## Dev Roadmap (Share also with MyTime)
 
 * Add support for displaying body battery
 * Move implementation of OWM to a Barrel, which can be shared between MyTime and MyBug
